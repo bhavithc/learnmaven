@@ -104,4 +104,5 @@ OS name: "linux", version: "6.8.0-58-generic", arch: "aarch64", family: "unix"
 
 ### References
 - https://stackoverflow.com/questions/11361331/how-to-download-sources-for-a-jar-with-maven
+- https://cs.android.com/android/platform/superproject/main/+/main:prebuilts/tools/common/m2/readme.txt
 - 
