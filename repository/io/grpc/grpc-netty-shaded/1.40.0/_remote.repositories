@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 06 17:21:53 UTC 2025
+grpc-netty-shaded-1.40.0-javadoc.jar>central=
+grpc-netty-shaded-1.40.0-sources.jar>central=
+grpc-netty-shaded-1.40.0.jar>central=
+grpc-netty-shaded-1.40.0.pom>central=
